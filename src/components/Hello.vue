@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links yu tao</h2>
+    <h2>Essential Links 张三</h2>
   </div>
 </template>
 
